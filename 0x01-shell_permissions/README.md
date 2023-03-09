@@ -18,4 +18,6 @@ Scripts
 
 ./7-everybody , add execution permission to the owner,the group owner and the other users,to the file hello.
 
-./9-James_Bond , sets the permission of the file hello as , owner with no permission at all, group with no permission at all,and other users all the permissions.
+./8-James_Bond , sets the permission of the file hello as , owner with no permission at all, group with no permission at all,and other users all the permissions.
+
+./9-John_Doe , sets the mode of the file hello to this :- -rwxr-x-wx .
