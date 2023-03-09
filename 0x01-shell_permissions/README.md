@@ -27,3 +27,5 @@ Scripts
 ./11-directories_permissions , add execute permission to all subdirectories of the current directory for the owner,the group owner and all other users.
 
 ./12-directory_permissions , create a directory called my_dir with permissions 751 in the working directory.
+
+./13-change_group , change the group owner to school for the file hello.
