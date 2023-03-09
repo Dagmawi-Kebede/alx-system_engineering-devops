@@ -17,3 +17,5 @@ Scripts
 ./6-multiple_permissions , add execute permission to the owner and the group owner,and read permission to other users,to the file hello.
 
 ./7-everybody , add execution permission to the owner,the group owner and the other users,to the file hello.
+
+./9-James_Bond , sets the permission of the file hello as , owner with no permission at all, group with no permission at all,and other users all the permissions.
