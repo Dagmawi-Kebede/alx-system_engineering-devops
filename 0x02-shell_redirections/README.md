@@ -3,3 +3,5 @@
 Scripts
 
 ./0-hello_world , print "Hello, World", followed by new line to the standard output.
+
+./1-confused_smiley , display a confused smiley "(Ôo)'.
