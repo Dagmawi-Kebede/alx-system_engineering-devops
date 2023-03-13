@@ -27,3 +27,5 @@ Scripts
 ./11-directories , count the number of directories and sub-directories in the current directory.The current and parent directories should not be taken into account and count also the hidden directories.
 
 ./12-newest_files , display the 10 newest files in the current directory. One file per line and sorted from the newest to the oldest.
+
+./13-unique , takes a list of words as input and prints only words that appear exactly once.
